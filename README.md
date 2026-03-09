@@ -16,6 +16,12 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco entre o desenvolvim
 
 Destaquei-me internacionalmente ao representar o Brasil no Mundial de F1 in Schools em Singapura (2023), experiência na qual gerenciei projetos, portfólios e estratégias de apresentação (pitchs) em ambiente competitivo. Busco oportunidades na área de tecnologia para aprender e aplicar meus conhecimentos em desenvolvimento e design.
 
+### Projetos em Destaque
+
+* **[Veris](https://gitlab.com/puc-group/Veris)** * Plataforma web desenvolvida para a automatização da gestão de prazos processuais cíveis, visando a mitigação de riscos operacionais e a otimização da produtividade em escritórios de advocacia.
+* **[Evex](https://github.com/Villainitt/evex)**
+  * Sistema de gestão de eventos acadêmicos para a PUC-GO. Desenvolvido para centralizar informações e simplificar inscrições, eliminando a fragmentação da plataforma institucional atual através de uma interface intuitiva e otimizada.
+
 ### Competências Técnicas
 
 * **Desenvolvimento:** Java, Python, JavaScript, Flutter, HTML5, CSS3.
